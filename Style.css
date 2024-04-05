@@ -199,6 +199,11 @@ h3 {
   margin-bottom: 20px;
 }
 
+iframe {
+  width: 650px;
+  height:650px;
+}
+
 .project-img {
   width: 100%;
   height: auto;
@@ -230,6 +235,14 @@ h3 {
 
 .earth{
   margin: 0 61px;
+}
+
+.puissance {
+  margin-top: -140px;
+}
+
+.horloges {
+  margin-top: -110px;
 }
 
 .coming{
