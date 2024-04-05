@@ -237,15 +237,12 @@ iframe {
   margin-bottom: 10px;
 }
 
-.project-url0 {
-  
-}
-
 #project .title {
   font-size: 40px;
   color: #bad66e;
   text-shadow: 2px 2px 4px #000000;
   margin: 25px;
+  width: fit-content;
 }
 
 .project-description h4{
@@ -265,11 +262,58 @@ iframe {
 }
 
 .earth{
-  margin: 0 61px;
+  width: fit-content;
+  margin-left:340px;
+  border-radius: 5px;
+}
+
+.calcul {
+  width: fit-content;
+  margin-left:225px;
+  border-radius: 5px;
+}
+
+.punchline {
+  width: fit-content;
+  margin-left: 30px;
+  border-radius: 5px;
+}
+
+.hang {
+  width: fit-content;
+  margin-left: 210px;
+  border-radius: 5px;
+}
+
+.shi {
+  width: fit-content;
+  margin-left: 265px;
+  border-radius: 5px;
 }
 
 .puissance {
   margin-top: -140px;
+  width: fit-content;
+  margin-left: 215px;
+  border-radius: 5px;
+}
+
+.pok {
+  width: fit-content;
+  margin-left: 200px;
+  border-radius: 5px;
+}
+
+.horloges {
+  width: fit-content;
+  margin-left: 290px;
+  border-radius: 5px;
+}
+
+.rob {
+  width: fit-content;
+  margin-left:350px;
+  border-radius: 5px;
 }
 
 .hangman {
