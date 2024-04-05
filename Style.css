@@ -243,6 +243,11 @@ iframe {
   text-shadow: 2px 2px 4px #000000;
   margin: 25px;
   width: fit-content;
+  text-align: center;
+}
+
+.project-description {
+  text-align: -webkit-center;
 }
 
 .project-description h4{
@@ -251,6 +256,7 @@ iframe {
   color: #ffffff;
   text-shadow: 2px 2px 2px #000000;
   background-color: #bad66e;
+  text-align: center;
 }
 
 .project-description p{
@@ -263,56 +269,47 @@ iframe {
 
 .earth{
   width: fit-content;
-  margin-left:340px;
   border-radius: 5px;
 }
 
 .calcul {
   width: fit-content;
-  margin-left:225px;
   border-radius: 5px;
 }
 
 .punchline {
   width: fit-content;
-  margin-left: 30px;
   border-radius: 5px;
 }
 
 .hang {
   width: fit-content;
-  margin-left: 210px;
   border-radius: 5px;
 }
 
 .shi {
   width: fit-content;
-  margin-left: 265px;
   border-radius: 5px;
 }
 
 .puissance {
   margin-top: -140px;
   width: fit-content;
-  margin-left: 215px;
   border-radius: 5px;
 }
 
 .pok {
   width: fit-content;
-  margin-left: 200px;
   border-radius: 5px;
 }
 
 .horloges {
   width: fit-content;
-  margin-left: 290px;
   border-radius: 5px;
 }
 
 .rob {
   width: fit-content;
-  margin-left:350px;
   border-radius: 5px;
 }
 
