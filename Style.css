@@ -204,10 +204,41 @@ iframe {
   height:650px;
 }
 
+.calculatrice {
+  height: 450px;
+}
+
+.puiss {
+  margin-left: 55px;
+}
+
+.punch {
+  height: 850px;
+}
+
+.horloge {
+  width: 450px;
+  height:450px;
+}
+
+.pika {
+  height: 750px;
+  width: 1000px
+}
+
+.robbie {
+  width: 950px;
+  height:650px;
+}
+
 .project-img {
   width: 100%;
   height: auto;
   margin-bottom: 10px;
+}
+
+.project-url0 {
+  
 }
 
 #project .title {
@@ -241,8 +272,8 @@ iframe {
   margin-top: -140px;
 }
 
-.horloges {
-  margin-top: -110px;
+.hangman {
+  height: 500px;
 }
 
 .coming{
@@ -268,12 +299,6 @@ iframe {
 .qr{
   margin: 0 -8px;
 }
-
-iframe{
-  scroll-behavior: none;
-}
-
-
 
 /*contact*/
 #contact {
